@@ -1,5 +1,7 @@
-school
+class
 university
 home
 new
 lecture
+exam
+lab
