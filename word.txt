@@ -3,3 +3,5 @@ university
 home
 new
 lecture
+exam
+lab
