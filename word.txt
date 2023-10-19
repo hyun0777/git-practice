@@ -1,5 +1,5 @@
 school
-class
+university
 home
 new
 lecture
